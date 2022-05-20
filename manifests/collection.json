@@ -1,0 +1,13 @@
+{
+  "id" : "https://nkyavuz.github.io/RepurposedSewingGuards/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in nkyavuz/RepurposedSewingGuards project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://nkyavuz.github.io/RepurposedSewingGuards/manifests/ksrl_sewing_guards_manifest.json",
+    "label" : "Repurposed Sewing Guards in Medieval Manuscripts: Examples from the Kenneth Spencer Research Library"
+  } ]
+}
