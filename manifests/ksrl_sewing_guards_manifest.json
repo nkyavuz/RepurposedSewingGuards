@@ -1,0 +1,127 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://nkyavuz.github.io/RepurposedSewingGuards/manifests/ksrl_sewing_guards_manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Repurposed Sewing Guards in Medieval Manuscripts: Examples from the Kenneth Spencer Research Library",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "A series of manuscript fragments repurposed as sewing guards in other manuscripts, with examples from the collections of the Kenneth Spencer Research Library.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Photos by N. Kıvılcım Yavuz, Anne Hyde Postdoctoral Researcher",
+  "sequences" : [ {
+    "@id" : "http://3e5e4d47-2ecd-4887-9142-86fbe155f371",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://05091e0d-03b6-4bec-8095-ae6820758395",
+      "@type" : "sc:Canvas",
+      "label" : "Kenneth Spencer Research Library, MS C278",
+      "height" : 2642,
+      "width" : 3609,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://73a4385c-506b-4108-8c16-c8d191705381",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/ksrl-fragmentology$KSRL_MS_C278_6v-7r.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/ksrl-fragmentology$KSRL_MS_C278_6v-7r.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2642,
+          "width" : 3609
+        },
+        "on" : "http://05091e0d-03b6-4bec-8095-ae6820758395"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://24106a7a-889e-4fa1-b78c-c9c85e63a87c",
+      "@type" : "sc:Canvas",
+      "label" : "Kenneth Spencer Research Library, MS C64",
+      "height" : 3024,
+      "width" : 4032,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f0d27976-dafd-4d11-a2ce-f1492dfe46be",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/ksrl-fragmentology$KSRL_MS_C64_28v-29r.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/ksrl-fragmentology$KSRL_MS_C64_28v-29r.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3024,
+          "width" : 4032
+        },
+        "on" : "http://24106a7a-889e-4fa1-b78c-c9c85e63a87c"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://a1b2024b-b3f3-45aa-9170-32f3ae0e80d2",
+      "@type" : "sc:Canvas",
+      "label" : "Kenneth Spencer Research Library, MS E282",
+      "height" : 3024,
+      "width" : 4032,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://208da089-7d66-4e8d-9bbe-a255bb755a3f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/ksrl-fragmentology$KSRL_MS_E282_30v-31r.JPG/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/ksrl-fragmentology$KSRL_MS_E282_30v-31r.JPG",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3024,
+          "width" : 4032
+        },
+        "on" : "http://a1b2024b-b3f3-45aa-9170-32f3ae0e80d2"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ab16b7e2-6106-4170-907a-92e380525dc5",
+      "@type" : "sc:Canvas",
+      "label" : "Kenneth Spencer Research Library, MS E282 with acrylic prism.",
+      "height" : 3024,
+      "width" : 4032,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0117d313-a1d5-40e2-a4ce-47ee917eedc4",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/ksrl-fragmentology$KSRL_MS_E282_30v-31r_detail.JPG/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/ksrl-fragmentology$KSRL_MS_E282_30v-31r_detail.JPG",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3024,
+          "width" : 4032
+        },
+        "on" : "http://ab16b7e2-6106-4170-907a-92e380525dc5"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
